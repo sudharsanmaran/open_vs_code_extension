@@ -1,0 +1,9 @@
+{
+    "name": "com.eaglebot.vscode",
+    "description": "Open VSCode",
+    "path": "vscode.sh",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://cmabedoojpbpdgkgofdiabfafamkbggn/"
+    ]
+}
